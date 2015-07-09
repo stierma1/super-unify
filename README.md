@@ -1,5 +1,5 @@
 # super-unify
-Recursively unify against a json object.
+Recursively unify and pattern match against a json object.
 Based on junify.
 
 ## install
