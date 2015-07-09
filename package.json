@@ -1,0 +1,31 @@
+{
+  "name": "super-unify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/grunt-cli/bin/grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stierma1/super-unify.git"
+  },
+  "author": "",
+  "license": "GNU 3.0",
+  "bugs": {
+    "url": "https://github.com/stierma1/super-unify/issues"
+  },
+  "homepage": "https://github.com/stierma1/super-unify",
+  "dependencies": {
+    "junify": "^1.0.2"
+  },
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-mocha-istanbul": "^2.4.0",
+    "istanbul": "^0.3.17",
+    "mocha": "^2.2.5",
+    "sinon": "^1.15.4"
+  }
+}
